@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/NextFinal.unity
+  isLoaded: 1
+  isActive: 1
