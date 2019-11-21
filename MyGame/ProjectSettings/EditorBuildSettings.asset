@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Start.unity
+    path: Assets/Scenes/BackStart.unity
     guid: 3e731d9e1a8c4d84e9797d7ea2dd64ef
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Scene12.unity
     guid: a7877293080033e48b66f1eaee88b81f
   - enabled: 1
-    path: Assets/Scenes/NextFinal.unity
+    path: Assets/Scenes/NextScenes.unity
     guid: 8324c4200334ce94397dd56186dc6a97
   - enabled: 1
-    path: Assets/Scenes/FinalGame.unity
+    path: Assets/Scenes/BackBoss.unity
     guid: da33fd1b656793443a3e5d2b8dd32682
   m_configObjects: {}
