@@ -7,6 +7,7 @@ TagManager:
   - ground
   - spikes
   - coins
+  - gamemaster
   layers:
   - Default
   - TransparentFX

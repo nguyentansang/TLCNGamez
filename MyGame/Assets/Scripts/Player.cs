@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class Player : MonoBehaviour
 {
     public float speed = 30f, maxspeed = 5, jumpPow, maxjump=9;
-    public bool grounded = true, faceright= true, doublejump=false;
+    public bool grounded = true, faceright = true;
     public int ourHealth, maxHealth=5;
 
     public Rigidbody2D r2;
@@ -25,8 +25,8 @@ public class Player : MonoBehaviour
     {
         anim.SetBool("grounded", grounded);
         anim.SetFloat("Speed", Mathf.Abs(r2.velocity.x));
-
-        if (Input.GetKeyDown(KeyCode.Space))
+        
+        if (Input.GetKeyDown(KeyCode.K))
         {
             if (grounded)
             {
@@ -34,6 +34,7 @@ public class Player : MonoBehaviour
                 r2.AddForce(Vector2.up * jumpPow);
             }
         }
+        
     }
 
     void FixedUpdate()

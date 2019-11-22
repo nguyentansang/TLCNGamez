@@ -2,30 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 public class Door : MonoBehaviour
 {
     public int Levelload = 1;
-    public Text Inputtext;
+    public gamemaster gm;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        gm = GameObject.FindGameObjectWithTag("gamemaster").GetComponent<gamemaster>();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     private void OnTriggerEnter2D(Collider2D col)
     {
         if (col.CompareTag("Player"))
         {
-            Inputtext.text = ("Press E to enter");
+            gm.Inputtext.text = ("Press E to enter");
         }
     }
 
@@ -44,7 +36,7 @@ public class Door : MonoBehaviour
     {
         if (col.CompareTag("Player"))
         {
-            Inputtext.text = ("");
+            gm.Inputtext.text = ("");
         }
     }
 }
