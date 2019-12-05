@@ -5,19 +5,23 @@ using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
-    public float speed = 30f, maxspeed = 5, jumpPow, maxjump=9;
-    public bool grounded = true, faceright = true;
+    public float speed = 30f, maxspeed = 5, jumpPow=400, maxjump=420;
+    public bool grounded, faceright = true;
     public int ourHealth, maxHealth=5;
+    public AudioClip flyClip;
 
+    public AudioSource audioSource;
     public Rigidbody2D r2;
     public Animator anim;
+    public Bullet2 bullet2;
     // Start is called before the first frame update 
     void Start()
     {
-        jumpPow = 300f;
+        audioSource = gameObject.GetComponent<AudioSource>();
         r2 = gameObject.GetComponent<Rigidbody2D>();
         anim = gameObject.GetComponent<Animator>();
         ourHealth = maxHealth;
+        audioSource.clip = flyClip;
     }
 
     // Update is called once per frame
@@ -25,16 +29,18 @@ public class Player : MonoBehaviour
     {
         anim.SetBool("grounded", grounded);
         anim.SetFloat("Speed", Mathf.Abs(r2.velocity.x));
-        
-        if (Input.GetKeyDown(KeyCode.K))
+        if (grounded)
         {
-            if (grounded)
+            if (Input.GetKeyDown(KeyCode.W))
             {
-                grounded = false;
-                r2.AddForce(Vector2.up * jumpPow);
+                audioSource.Play();
+                {
+                    grounded = false;
+                    r2.AddForce(Vector2.up * jumpPow);
+                }
+
             }
         }
-        
     }
 
     void FixedUpdate()
@@ -86,13 +92,13 @@ public class Player : MonoBehaviour
 
     public void Death()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene(6);
     }
 
     public void Damage(int damage)
     {
         ourHealth -= damage;
-        gameObject.GetComponent<Animation>().Play("YellowFlash");
     }
     public void Knockback(float Knockpow, Vector2 Knockdir)
     {
@@ -103,10 +109,30 @@ public class Player : MonoBehaviour
     //an tien va tien bien mat
     private void OnTriggerEnter2D(Collider2D col)
     {
+        if (col.CompareTag("ground"))
+        {
+            grounded = true;
+            jumpPow = 400;
+        }
         if (col.CompareTag("coins"))
         {
             Destroy(col.gameObject);
-
+        }
+    }
+    private void OnTriggerStay2D(Collider2D col)
+    {
+        if (col.CompareTag("ground"))
+        {
+            grounded = true;
+            jumpPow = 400;
+        }
+    }
+    private void OnTriggerExit2D(Collider2D col)
+    {
+        if (col.CompareTag("ground"))
+        {
+            grounded = false;
+            jumpPow = 0;
         }
     }
 }

@@ -8,6 +8,8 @@ TagManager:
   - spikes
   - coins
   - gamemaster
+  - bullet
+  - boss
   layers:
   - Default
   - TransparentFX

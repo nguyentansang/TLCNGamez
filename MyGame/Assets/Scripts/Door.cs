@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Door : MonoBehaviour
 {
-    public int Levelload = 1;
+    public int Levelload;
     public gamemaster gm;
 
     // Start is called before the first frame update

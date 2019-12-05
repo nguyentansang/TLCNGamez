@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class DiChuyen : MonoBehaviour
 {
+    public int curHealth = 1;
     public float moveSpeed=1;
     public float moveRange=2;
     public bool facingRight = true;
@@ -37,9 +38,18 @@ public class DiChuyen : MonoBehaviour
         //    facingRight = !facingRight;
            
         }
+        if (curHealth < 0)
+        {
+            Destroy(gameObject);
+        }
     }
     void flip() {
-        //facingRight = !facingRight;
-        transform.Rotate(Vector3.up * 180);
+        transform.Rotate(Vector2.up * 180);
+    }
+
+    public void Damage(int dmg)
+    {
+        curHealth -= dmg;
+        //gameObject.GetComponent<Animation>().Play("YellowFlash");
     }
 }
