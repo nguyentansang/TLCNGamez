@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: 7dda2eff8ea18c144812e9b1123012ff
+  - enabled: 1
+    path: Assets/Scenes/BackWiner.unity
+    guid: 2b93663cc9a806e4c8d03c87b07edb8d
   m_configObjects: {}

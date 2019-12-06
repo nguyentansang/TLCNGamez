@@ -1126,12 +1126,10 @@ MonoBehaviour:
   faceright: 1
   ourHealth: 0
   maxHealth: 5
-  Levelload: 3
   flyClip: {fileID: 0}
   audioSource: {fileID: 0}
   r2: {fileID: 0}
   anim: {fileID: 0}
-  bullet2: {fileID: 0}
 --- !u!4 &1775324392
 Transform:
   m_ObjectHideFlags: 0

@@ -54,8 +54,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\AttackC2.cs" />
      <Compile Include="Assets\Scripts\AttackCone.cs" />
      <Compile Include="Assets\Scripts\AttackTrigger.cs" />
+     <Compile Include="Assets\Scripts\BossAI.cs" />
      <Compile Include="Assets\Scripts\Bullet.cs" />
      <Compile Include="Assets\Scripts\Bullet2.cs" />
      <Compile Include="Assets\Scripts\CameraFlow.cs" />
@@ -64,6 +66,7 @@
      <Compile Include="Assets\Scripts\Falling.cs" />
      <Compile Include="Assets\Scripts\gamemaster.cs" />
      <Compile Include="Assets\Scripts\GroundCheck.cs" />
+     <Compile Include="Assets\Scripts\HealthBar.cs" />
      <Compile Include="Assets\Scripts\Heart.cs" />
      <Compile Include="Assets\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />

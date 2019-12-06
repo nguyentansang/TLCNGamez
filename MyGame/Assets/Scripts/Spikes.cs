@@ -17,7 +17,7 @@ public class Spikes : MonoBehaviour
         if (col.CompareTag("Player"))
         {
             player.Damage(damage);
-            player.Knockback(400f, player.transform.position);
+            player.Knockback(300f, player.transform.position);
         }
     }
 }

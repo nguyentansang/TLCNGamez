@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
-    public float speed = 30f, maxspeed = 5, jumpPow=400, maxjump=420;
+    public float speed = 30f, maxspeed = 5, jumpPow=400, maxjump=400;
     public bool grounded, faceright = true;
     public int ourHealth, maxHealth=5;
     public AudioClip flyClip;
@@ -13,7 +13,7 @@ public class Player : MonoBehaviour
     public AudioSource audioSource;
     public Rigidbody2D r2;
     public Animator anim;
-    public Bullet2 bullet2;
+
     // Start is called before the first frame update 
     void Start()
     {
@@ -103,7 +103,7 @@ public class Player : MonoBehaviour
     public void Knockback(float Knockpow, Vector2 Knockdir)
     {
         r2.velocity = new Vector2(0, 0);
-        r2.AddForce(new Vector2(Knockdir.x * -100, Knockdir.y * Knockpow));
+        r2.AddForce(new Vector2(Knockdir.x * -Knockpow, Knockdir.y * Knockpow));
     }
 
     //an tien va tien bien mat

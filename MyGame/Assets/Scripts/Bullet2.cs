@@ -5,10 +5,10 @@ using UnityEngine;
 public class Bullet2 : MonoBehaviour
 {
     public Rigidbody2D rb;
-    
+
     void Start()
     {
-           // rb.velocity = transform.right * speed;   
+       
     }
 
     void OnTriggerEnter2D(Collider2D col)
@@ -18,6 +18,7 @@ public class Bullet2 : MonoBehaviour
             if (col.CompareTag("boss"))
             {
                 col.SendMessageUpwards("Damage", 10);
+                HealthBar.health -= 10f;
             }
             Destroy(gameObject);
         }
