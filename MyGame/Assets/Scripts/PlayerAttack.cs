@@ -8,6 +8,7 @@ public class PlayerAttack : MonoBehaviour
     public bool hit = false;
     public float bulletspeed = 20f;
     public float bullettimer;
+    public bool attack = false;
 
     public Transform FireBall;
     public Animator anim;
@@ -21,10 +22,15 @@ public class PlayerAttack : MonoBehaviour
         trigger.enabled = false;
         player = gameObject.GetComponent<Player>();
     }
-    // Update is called once per frame
+
+    public void Attack(bool Bjump)
+    {
+        attack = Bjump;
+    }
+
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.J) && !hit)
+        if (attack == true && !hit)
         {
             hit = true;
             trigger.enabled = true;

@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/ASUS/MyGame/Build/PC5/MyGame.exe
+C:/Users/ASUS/MyGame/Build/PC6/MyGame.exe
 SceneListBegin?
 Assets/Scenes/Start.unity
 Assets/Scenes/Stage1.unity
@@ -123,7 +123,7 @@ e0ee4b3d4e27318934cc940a969d3d96 UnityEngine.Networking.dll:UnityEngine.Networki
 ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 9b895dcabbc1faf095c000c32d471fd0 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 5887ef1bc706b22b773d253fd443ceef UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
-ef16ac094a5abddade5c452425866301 Assembly-CSharp.dll:.BossAI
+72f4efcc722c2a09dd4a5db73e1bab7e Assembly-CSharp.dll:.BossAI
 b0e247a4f96eae63bfd95f6a714221ec Assembly-CSharp.dll:.Falling
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker

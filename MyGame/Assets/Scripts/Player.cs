@@ -8,13 +8,14 @@ public class Player : MonoBehaviour
     public float speed = 30f, maxspeed = 5, jumpPow=400, maxjump=400;
     public bool grounded, faceright = true;
     public int ourHealth, maxHealth=5;
-    public AudioClip flyClip;
+    public float h = 0;
+    public bool jump = false;
 
+    public AudioClip flyClip;
     public AudioSource audioSource;
     public Rigidbody2D r2;
     public Animator anim;
 
-    // Start is called before the first frame update 
     void Start()
     {
         audioSource = gameObject.GetComponent<AudioSource>();
@@ -29,23 +30,30 @@ public class Player : MonoBehaviour
     {
         anim.SetBool("grounded", grounded);
         anim.SetFloat("Speed", Mathf.Abs(r2.velocity.x));
-        if (grounded)
+        if (jump == true)
         {
-            if (Input.GetKeyDown(KeyCode.W))
+            if (grounded)
             {
                 audioSource.Play();
-                {
-                    grounded = false;
-                    r2.AddForce(Vector2.up * jumpPow);
-                }
-
+                grounded = false;
+                r2.AddForce(Vector2.up * jumpPow);
             }
         }
     }
 
+    public void Jumping(bool Bjump)
+    {
+        jump = Bjump;
+    }
+    public void Move(float Binput)
+    {
+        h = Binput;
+    }
+
     void FixedUpdate()
     {
-        float h = Input.GetAxis("Horizontal");
+        //float h = Input.GetAxis("Horizontal");
+        Move(h);
         r2.AddForce((Vector2.right) * speed * h);
 
         if(r2.velocity.x > maxspeed)
@@ -105,7 +113,6 @@ public class Player : MonoBehaviour
         r2.velocity = new Vector2(0, 0);
         r2.AddForce(new Vector2(Knockdir.x * -Knockpow, Knockdir.y * Knockpow));
     }
-
     //an tien va tien bien mat
     private void OnTriggerEnter2D(Collider2D col)
     {

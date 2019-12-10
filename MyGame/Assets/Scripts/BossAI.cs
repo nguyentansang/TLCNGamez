@@ -16,6 +16,8 @@ public class BossAI : MonoBehaviour
     public bool awake = false;
     public bool lookingRight = true;
 
+    public AudioSource audioSource;
+    public AudioClip shootClip;
     public GameObject bullet;
     public Transform target;
     public Animator anim;
@@ -25,12 +27,12 @@ public class BossAI : MonoBehaviour
     private void Awake()
     {
         anim = GetComponent<Animator>();
-
     }
-    // Start is called before the first frame update
+
     void Start()
     {
-
+        audioSource = gameObject.GetComponent<AudioSource>();
+        audioSource.clip = shootClip;
     }
 
     // Update is called once per frame
@@ -102,6 +104,7 @@ public class BossAI : MonoBehaviour
 
     public void Damage(int dmg)
     {
+        audioSource.Play();
         curHealth -= dmg;
         //gameObject.GetComponent<Animation>().Play("YellowFlash");
     }
