@@ -1,0 +1,5833 @@
+fileFormatVersion: 2
+guid: e667496daaab857419b79f2efd1fcd3d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: One1
+    21300002: One1
+    21300004: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_1
+    21300006: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_2
+    21300008: One2
+    21300010: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_4
+    21300012: One3
+    21300014: One4
+    21300016: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_7
+    21300018: One5
+    21300020: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_9
+    21300022: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_10
+    21300024: One6
+    21300026: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_12
+    21300028: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_13
+    21300030: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_14
+    21300032: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_15
+    21300034: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_16
+    21300036: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_17
+    21300038: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_18
+    21300040: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_19
+    21300042: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_20
+    21300044: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_21
+    21300046: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_22
+    21300048: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_23
+    21300050: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_24
+    21300052: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_25
+    21300054: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_26
+    21300056: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_27
+    21300058: Move1
+    21300060: Move2
+    21300062: Move3
+    21300064: Move4
+    21300066: Move5
+    21300068: Move6
+    21300070: Move7
+    21300072: Move8
+    21300074: Move9
+    21300076: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_37
+    21300078: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_38
+    21300080: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_39
+    21300082: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_40
+    21300084: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_41
+    21300086: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_42
+    21300088: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_43
+    21300090: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_44
+    21300092: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_45
+    21300094: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_46
+    21300096: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_47
+    21300098: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_48
+    21300100: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_49
+    21300102: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_50
+    21300104: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_51
+    21300106: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_52
+    21300108: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_53
+    21300110: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_54
+    21300112: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_55
+    21300114: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_56
+    21300116: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_57
+    21300118: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_58
+    21300120: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_59
+    21300122: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_60
+    21300124: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_61
+    21300126: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_62
+    21300128: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_63
+    21300130: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_64
+    21300132: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_65
+    21300134: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_66
+    21300136: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_67
+    21300138: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_68
+    21300140: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_69
+    21300142: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_70
+    21300144: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_71
+    21300146: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_72
+    21300148: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_73
+    21300150: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_74
+    21300152: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_75
+    21300154: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_76
+    21300156: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_77
+    21300158: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_78
+    21300160: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_79
+    21300162: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_80
+    21300164: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_81
+    21300166: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_82
+    21300168: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_83
+    21300170: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_84
+    21300172: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_85
+    21300174: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_86
+    21300176: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_87
+    21300178: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_88
+    21300180: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_89
+    21300182: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_90
+    21300184: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_91
+    21300186: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_92
+    21300188: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_93
+    21300190: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_94
+    21300192: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_95
+    21300194: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_96
+    21300196: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_97
+    21300198: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_98
+    21300200: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_99
+    21300202: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_100
+    21300204: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_101
+    21300206: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_102
+    21300208: Jum1
+    21300210: Jum2
+    21300212: Jum3
+    21300214: Jum4
+    21300216: Jum5
+    21300218: Jum6
+    21300220: Jum7
+    21300222: Jum8
+    21300224: Jum9
+    21300226: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_112
+    21300228: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_113
+    21300230: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_114
+    21300232: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_115
+    21300234: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_116
+    21300236: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_117
+    21300238: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_118
+    21300240: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_119
+    21300242: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_120
+    21300244: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_121
+    21300246: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_122
+    21300248: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_123
+    21300250: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_124
+    21300252: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_125
+    21300254: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_126
+    21300256: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_127
+    21300258: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_128
+    21300260: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_129
+    21300262: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_130
+    21300264: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_131
+    21300266: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_132
+    21300268: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_133
+    21300270: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_134
+    21300272: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_135
+    21300274: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_136
+    21300276: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_137
+    21300278: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_138
+    21300280: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_139
+    21300282: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_140
+    21300284: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_141
+    21300286: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_142
+    21300288: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_143
+    21300290: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_144
+    21300292: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_145
+    21300294: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_146
+    21300296: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_147
+    21300298: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_148
+    21300300: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_149
+    21300302: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_150
+    21300304: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_151
+    21300306: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_152
+    21300308: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_153
+    21300310: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_154
+    21300312: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_155
+    21300314: MoveGun1
+    21300316: MoveGun2
+    21300318: MoveGun3
+    21300320: Movegun4
+    21300322: Movegun5
+    21300324: Movegun6
+    21300326: Movegun7
+    21300328: Movegun8
+    21300330: Jumgun1
+    21300332: Jumgun2
+    21300334: Jumgun3
+    21300336: Jumgun4
+    21300338: Jumgun5
+    21300340: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_169
+    21300342: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_170
+    21300344: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_171
+    21300346: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_172
+    21300348: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_173
+    21300350: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_174
+    21300352: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_175
+    21300354: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_176
+    21300356: Die1
+    21300358: Die2
+    21300360: Die3
+    21300362: Die4
+    21300364: Die5
+    21300366: Die6
+    21300368: Die7
+    21300370: Die8
+    21300372: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_185
+    21300374: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_186
+    21300376: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_187
+    21300378: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_188
+    21300380: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_189
+    21300382: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_190
+    21300384: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_191
+    21300386: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_192
+    21300388: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_193
+    21300390: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_194
+    21300392: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_195
+    21300394: Run1
+    21300396: Run2
+    21300398: Run3
+    21300400: Run4
+    21300402: Run5
+    21300404: Run6
+    21300406: Run7
+    21300408: Run8
+    21300410: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_204
+    21300412: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_205
+    21300414: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_206
+    21300416: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_207
+    21300418: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_208
+    21300420: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_209
+    21300422: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_210
+    21300424: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_211
+    21300426: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_212
+    21300428: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_213
+    21300430: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_214
+    21300432: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_215
+    21300434: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_216
+    21300436: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_217
+    21300438: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_218
+    21300440: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_219
+    21300442: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_220
+    21300444: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_221
+    21300446: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_222
+    21300448: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_223
+    21300450: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_224
+    21300452: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_225
+    21300454: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_226
+    21300456: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_227
+    21300458: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_228
+    21300460: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_229
+    21300462: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_230
+    21300464: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_231
+    21300466: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_232
+    21300468: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_233
+    21300470: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_234
+    21300472: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_235
+    21300474: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_236
+    21300476: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_237
+    21300478: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_238
+    21300480: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_239
+    21300482: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_240
+    21300484: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_241
+    21300486: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_242
+    21300488: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_243
+    21300490: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_244
+    21300492: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_245
+    21300494: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_246
+    21300496: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_247
+    21300498: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_248
+    21300500: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_249
+    21300502: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_250
+    21300504: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_251
+    21300506: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_252
+    21300508: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_253
+    21300510: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_254
+    21300512: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_255
+    21300514: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_256
+    21300516: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_257
+    21300518: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_258
+    21300520: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_259
+    21300522: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_260
+    21300524: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_261
+    21300526: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_262
+    21300528: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_263
+    21300530: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_264
+    21300532: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_265
+    21300534: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_266
+    21300536: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_267
+    21300538: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_268
+    21300540: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_269
+    21300542: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_270
+    21300544: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_271
+    21300546: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_272
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: One1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1220
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b99888ce3588a74786390b24ec2a16a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1272
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daaee286f45e0946b40978c3267a5d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1272
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f23ea86127458d4494265081bfdd0d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1221
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8243327c272f84aaf4de8f8d11fadf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1272
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac2834ca044381439a70c938b8e4d3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1220
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470a8871a6da82044ba9317bae739a9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1220
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac263ae46b5574e93dd1b4631f4f36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1272
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759b68ef57b55154ba2d0055ba6ab8a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1220
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9c02cf692cb184aa1c7c10f467947e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1272
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5839a273e3b96646967c52935e76130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1272
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eaf5db3b37e1d46821a16c6cc55c59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1220
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdd8b5508b88584abbf8c78146eb4db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1265
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db6f435704c2a143ab73e10e4006e5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1261
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bebe96753f4c764faa231052532501f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1261
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de503ad08145e8448d6eaf781ea23f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1261
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dfce5bb0b59cd458895f3831478f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1261
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef239e303c5c3c4c95cc7fa1c0af2f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1272
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab95d7a72837848978abed81cd55e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1261
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f4629c6803af24a9a88fce1a5ce19d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1261
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63989f450fcd01545ba813c04bf57135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1261
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a606de8786d2a747b80f20c62340c35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1259
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a438049f4f32b1438ab968f5f29b6f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1259
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788dcd3475495e54a9f5b595fe26cd69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1261
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5d9ca80fd3181468968cde0895f00e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1261
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2faa75f44e569140942965fcc2b090a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1261
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a92462d1674694cb5de27c3df31e14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1261
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833469cabc5b8c24386b5e588de20251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_27
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1261
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41319660a967cc4b94a5cb1d3fdd877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1168
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30af2a5b843d9847bd3ed1de12bbe42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1168
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96347f6e430f66245b4d995cac3d2c02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1168
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c298c526cc2679245b95462adf5bf6d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1168
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e009b1f3e18647af4b724290a5b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1168
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e4cb5a087aae46b6db4892645a966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1168
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43d7c86affaa86419895765ed70044c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1168
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c3c4444e9c2c04da20eab8cf1dd27a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1168
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf3847f8cb9fa84f89f8b2053c7e208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1168
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029b8e68fdc3c1c4bba3c32c55646b27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1107
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d1828e628cda4791a09ff4e2c831b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1107
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c25594ac5343d4b99ed50b9c1b1ce0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1107
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b645063b9f8dfa4e951510478c267b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1107
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b641121b298d04781baf4e76898bd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1107
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd25ff35f8b954f96bcdeadfc5b4f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1107
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb492daa441eda24bba46e4528b49971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_43
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1107
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03796243aedc3914499ecd54a32c4886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1043
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c53dfab36685f4fba677576d0ba585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_45
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1043
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39ef2abfb4389343b0663d376756cf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1043
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd205a5ca3ff9a43bf92b563ba74fb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1043
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6789e84f84e4d4eaed9f9e8bd5c2bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 993
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8897a21253b635d41b0a3ebc88f0aa50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 993
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb5b09274c3ea84492a2d934413f183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 993
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a726fb41303fbe14ea0499848d2ed94c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 993
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c60a9e7e37c9046b6cae33b2ff24ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_52
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 993
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81900d737b76fe0408c1c6d72f5933b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_53
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1011
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1110431370814241a9d3ed6d34c4846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_54
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1010
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6634effa6a95ee2479463fa1bb496249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_55
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1011
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b4863b7e9788644bcc5922b4278466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1012
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a394714c63e0df64395661b05c9341f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_57
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 916
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4a48b04eca75044b238fbb5369e48b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_58
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 916
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4d812c47b50d842a715018aad942c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 954
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9bcb99f346fdd43a63e2e22a8a5bf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 916
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4c284985ee3644bb890839cc124358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_61
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 916
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8579f917781e0424fba1b589bae34911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_62
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 916
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331a7bee40e114c4ab7a8ba3da2bcad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_63
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 916
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4785d689e889c2a43b526601b953f35e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 917
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c7fc3562c2554db73a292b1b8b9fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_65
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 918
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d2c93047b2fd4f9a0cd0ee6c04268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_66
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 916
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9202ad365e984bf46b9518989bd75060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 938
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d922d0397d595c44a98d81000e7b9e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_68
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 919
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc837670d04b444ea6defb4a683442c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 857
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419920fcd780f2842a4b3ba412b8ae31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_70
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 857
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dcf225fadd5054dbcef9e44e127537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 857
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a819fe7b0f34c941b65524221a03296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_72
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 857
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e130a3d34817434395a6511cacb6559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 857
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3bafa9d692f7d49bd0c223ac460638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_74
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 857
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98fd0bbdfa56fc428190c4fad91c6af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_75
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 857
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a811655daf3654345a04fae7e36f3dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_76
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 857
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6dbfe1bf2a0b440a38fc4642a8fae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_77
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 857
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e88173ba0cb05b4f8973f060d51cf67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_78
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 778
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4c9465f09ce9348b466aa81637eda0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_79
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 778
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70237bc57e39143948c44f7f517eca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_80
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 778
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d928ac6bb97b9ce4b8f87d328c989eed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_81
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 778
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f516778efbcf8498931f15680c774b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_82
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 778
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f447e124f14448419396be8d1a51b90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_83
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 778
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122f71d60645b5b429f02a1c42453ff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_84
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 778
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea84395a2044314c96d3125bcf91bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_85
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 778
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3535504208d6642854c7f521350fa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_86
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 804
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8fb7a46b3a42547ae5c5a242f7cc32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_87
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 804
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675d42d5a17ec0d4f8895916a409b4e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_88
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 778
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b2fe6e5c1750c4ca06de52b4ca83e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_89
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 778
+        width: 24
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acfe26d35fb95545b72b8e3a70a7e77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_90
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 785
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b885db0648c46489303f07fb857176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_91
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 742
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602f1636fd672e541af37653ec480f21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_92
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 742
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1dd38aa229b0944ad0c4da6c861606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_93
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 742
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b918bd657bfd64cab679d5be9df317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_94
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 742
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10cc642e33270a44adabc427a1f7e85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_95
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 742
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2c3045e899c0949a153ea3e8d37693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_96
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 742
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ab6c7a16619ef49b5cc34a31c8176d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_97
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 742
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecae78ac724e0e64da117c5c4c43c3a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_98
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 742
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfdf8ab0c08f2840be1dcb728866982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_99
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 742
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3292d968eca1abd4baea4599a9679033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_100
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 742
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0434fd75ade10104584adffaca9a45cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_101
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 745
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5436ac287fbb1e4b89deaf73f585fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_102
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 745
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c38f74d49c7b4a946df83fe339514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jum1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 674
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904eb6143a19aaa449284e1bcc5d9cad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jum2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 675
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014d5563dbb164a488fa509c5efdd811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jum3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 674
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e14e59d4bc9ef4e8dde1331529eae6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jum4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 674
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d55b53f7794c440931b25a97b3ff87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jum5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 674
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64cb05bfe21d1147b8132a30744c797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jum6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 674
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343b7ea34ec2ade479c10faddbdaaef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jum7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 674
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7f10f6c6e8da94f9cc00ee32caddb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jum8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 674
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c41e69809119042a2cc6b44944f609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jum9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 674
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba55d63ab4d8e4da75f02ed7639456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 638
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348c1c5311e78014d93272de8222ec60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_113
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 638
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1863a6e5668724daa34da99b5bf3ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_114
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 638
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7d6d126f20527449ce79738e85c43d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_115
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 638
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea665ad9f461e48b3b9d07056f4e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_116
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 638
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f7b76911df13b41a59f2d7de947c32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 586
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8edeba5e338d4cbafeefa90c0f274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_118
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 586
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce88d6b52700c743a84aa02444fcf48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 586
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e0cd0d881302408baa2716908c2ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_120
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 586
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d5682c679908b4ca959fa57bb6aeef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_121
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 586
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4d56faf3743c547a7e1f3e8a87d0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_122
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 586
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b118d13756c53c4dbdab7bb75e3427a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_123
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 586
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f7f75fe9ad3945b808b3d681c2e43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_124
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 586
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ce10e3693250645bb506f87b1480a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_125
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 537
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a400d4e59840fa498857da8d04ff794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_126
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 537
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b41c95e50f97047877a41d1176591c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_127
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 537
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca06d6cc54053ae448974aa3f872f853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_128
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 537
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d8c8026699e2a40830d79b45584280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_129
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 551
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bd850b35eec4e489c370baa70a8ee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_130
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 547
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedc2ff064bdb3d4fa4cfb6f58dd9ecd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_131
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 547
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8126eaa6cd55a5d4ca5b3aa4ba978505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_132
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 551
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ce51e7ac44f574f91490d223147ee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_133
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 478
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59961260f2184aa44962f24293277500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_134
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 478
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8ad491418114841b818da2bc6c042e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_135
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 478
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673fb32fbf41d464fb7f49d69a75523b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_136
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 478
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d265b61c532824a8e80b780f4b6513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_137
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 478
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ed93a93c04e854fb1e3324c5a57a8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_138
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 478
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1131eaf36fbce498f159b6f4bafb49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_139
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 426
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48a9441ffb813040aa58405e8dc5408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_140
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 426
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db776c9cdb234e94a818b77d2b5fcc99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_141
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 426
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec04508446518e40bffd67b63e88179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_142
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 426
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cc538b40b00464ea88412da1f55f59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_143
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 426
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0030e035eec9c6439b15394a3539472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_144
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 426
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea07afa5d1d3a4b907877562da24c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_145
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 449
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6779cf0300acd764599ab6511f0914f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_146
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 449
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654667241dcdb1a40a7cf99b6ecc638b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_147
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 447
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150bd7439edb1d2479bb134f88895635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_148
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 438
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e70b1580b59b94f80709722ff65980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_149
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 437
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9359c140a1b67a44d897064c68c20a1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_150
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 437
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0179ce83c72be4f8210d430de7d430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_151
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 437
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ca14d987ff91409be702fae212c73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_152
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 438
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cb7d6a3c4d6694b867b3da8f41b4b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_153
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 437
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae924be48336dd47b0c7889e37b0a67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_154
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 437
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ba94490f8051f4ba4437e7b7580eb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_155
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 437
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60467137153ff744c99fb05492e263b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveGun1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 374
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7c0208e8466574481f96365b4b0114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveGun2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 374
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41240318ff3c3e04aa4379f8245ea1c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoveGun3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 375
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f449582201d254b8135c2ebcf730ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movegun4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 374
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04126dfc38a6d7498d4f915b84b23ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movegun5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 374
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2636a1488bcf244893c64fb9c8334e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movegun6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 374
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098bb0ae86577da4796c74c8d3929ef9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movegun7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 374
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6024791eac26249bc6c6ae650419d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Movegun8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 374
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f1098b09c9f6948802e7256ef8bbb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumgun1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 312
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b39da504967e498b8c53ca5ded2ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumgun2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 312
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e215c217c7782b648a66e5ffb9840542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumgun3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 312
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b486a8ac03244b43a89620786083485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumgun4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 312
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f959d5d4c189d0348b43f88b543fb3a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumgun5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 312
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2065f074ae5c15a4f80ed2933ee72442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_169
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 325
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ff00f06608f7f45b3d2e45906f6528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_170
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540cada7029bcee46a518b61f2d4dd92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_171
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 317
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef1e89145de65b4a98017b99c5f13cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_172
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 251
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f626d922d54aa9b4cb45dec27e19c5b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_173
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 251
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca22c2810675d341aea9ee4be64ef09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_174
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 251
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88f3782702f0fe4e863b9e1235ba500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_175
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 251
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0430d14205130b479e887f00485c6dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_176
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 250
+        width: 200
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f9683f00cc09c4b9ca4e90c23b9f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 191
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64561a0851adda940ad1de4f611ac37e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 191
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38c77d2a7647c643b2239be0016a218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 191
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf098e47904c836468e1810b045f50c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 191
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b76067d925c0b4a8a52341f7bef21a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 191
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dfe4263fcbcb94da52f296f1160abe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 191
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1d56f9e1259844aa5ac557af8f0489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 191
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf586b2dba0883428464d970a3d0562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 191
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9539a25857879cb4f9e7cdf9a53027c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_185
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 154
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dbbbe50097de84394e4eb1cfccd557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_186
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 154
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6148f7536746f0745bdbf76d7efa4535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_187
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 154
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81dda2ede6959d4d8fd914f689995a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_188
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 154
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f8fd959922da34495cb5e78287ffb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_189
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 154
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820c5354b7fe7b47b6c911a653013d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_190
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 81
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bddd2763807184c9f2509d66a912da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_191
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 81
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0379ccfad48f7a48ad7dd03ea0d5d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_192
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 81
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016ac44bfe62914439bbbc49b7692702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_193
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 81
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cff46e10a9e5c84d8f60c96fe3a6766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_194
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 81
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b1338f9ad3bcd4d86617f10e64767e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_195
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 81
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bf97793482bdd4e9c4668335782798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 29
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40aab64844c2c9479ddd64289847321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 29
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a877602f7ce72488fd86a4a659c0f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 29
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30a12e11847cf149bd7329a2da02fd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 29
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a913cfd544a5b4ab963119a84c4b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 29
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81be6ffd7e2c4b949955f58e580ec9c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 29
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2813c517acd31f949988cbd6ae4dc944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 29
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe5ac726f915724384ce6b6f8139005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 29
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faf4c6e7be132442825c93303af1d29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_204
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e841d38b9892a648af479547ea291a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_205
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9124a7c0f174e40458b1aae2bb7313cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_206
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55636da88a12d142b378a9e41ac3bcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_207
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d0eb143f17a304690bafd09a040cfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_208
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b6198b80bcac1408053624a0af4c00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_209
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67e93f58fbcd1b42ae4c2e12da39dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_210
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a73a6cb43152fd409ac2d038c371e55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_211
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187044fc3ed121c4f8c09ec21f137ee4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_212
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a24bed2ba726b54f91accf30cc76d6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_213
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e5abae9b7f4cd40b011f3b7eb728cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_214
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21e45241fddb504a98b7ef460583992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_215
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e136c57ae3eac49a284389ff1d6866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_216
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e84a1ba83aa6164785e13d596d507e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_217
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c390053dcb123f746bb52f625b63501d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_218
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 17
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d69a19efae30947823daad89274bc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_219
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a3c7abb14c0454e93390ec16fec8ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_220
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6658ef3194603848a53c82a7c20984e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_221
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210dc329cb5375446b470aea37ab2250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_222
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aae7a4c86031e428599f51bec98185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_223
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9789f2ad6812fa544b416efb6d82d099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_224
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff5442baec55d346acbb751ccc80a51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_225
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8c2511ec02b146885696403ad66c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_226
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b8327fd89f0c64aa6c8db9bbf3204c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_227
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a17a7d08d1a5844a4a3697cb3abf81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_228
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9854cbe012a517b4fad8d2f579430093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_229
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 17
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852dcba1e63f4f4597ec81a85c95b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_230
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd400494180eb5b48b55d8626d267e0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 15
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11973b0e4b390514d9c9a196c3d7534e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_232
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926095d848b37da4aaffdd7f116078c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_233
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba77924ab7dcde449b3182e1aafd3c53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_234
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5489abaabb9cfe84dbe0a3279eb6447d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_235
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf7828e8be08884ea16daa32ffb8739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_236
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5b61026f1a40a44b35f8356b6ee17d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_237
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a36091d6f4ddc94ab88523b4db69695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_238
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7defb0c0fbc30574984463122aa91998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_239
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65335657d2a50942a1e7257aed7817d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_240
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65921e49e68f2294cb196583200c23be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_241
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7139ae082978514b89fa62bfbb7e32b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_242
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77fdcf40132f5042ba4db31982f3789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_243
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8483d82c74d3aec4cb81d5afe796a0a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_244
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d995058f42b8721458cbe6f7cbfe6bc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_245
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9053306f9eff9664897008940b743288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_246
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b571dde193cbcf2429f1dc939742df69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_247
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 17
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea151273930437b4bb39301c739e06df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_248
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870225f7581f2ba49936ca390c76199e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_249
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011c2947f5be71143ae2cfef847ae3c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_250
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25821019e933d44ca0779851885829d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_251
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531e30ff13f9ed64bbdda5b1da55dc74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_252
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 4
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b38ad095df0cb54d92310ade36d3861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_253
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cf6f6ea3e952845b26d640a46e63d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_254
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 6
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4012ea935bdf45a419a912822237aa89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_255
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef687d8215b34ea488524a2267f66379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_256
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da5e9fa02cc1040a056ca1ed5b2f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_257
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48c05cff37cfbf4397d86239298eb5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_258
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b7f65690eb524f8f8d8ec367766a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_259
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946c3355b891e1843acb8e92dd9f0eb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_260
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4f17b697c9bff48a940de6335172c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_261
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82140baaea37574ebf18388a8812106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_262
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7908e9a252d37304a8b74e9c671b87e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_263
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2d8b891e25ffe449ada5240ac70cb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_264
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab21a188541cce409e6d57455474010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_265
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0508a27b62f42df4a9b31f69b198af63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_266
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a9bfe58c84c0418bd35fd4f0071c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_267
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d5ada4225ac16458aaca8f32e13955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_268
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403c0a8cb90eed54cb72094451121f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_269
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76558ed65cabd0745b91ebe662f2cbc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_270
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288c914db90e08b44b95a1a925a9d7cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_271
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f46e1d7f09abd544983e53b2234b5af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Top Hunter Roddy & Cathy - Roddy_272
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bdfb2862fe18348a0779a94eb6e830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eede0ee86683ec041b08550738562853
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
